@@ -1,7 +1,6 @@
 # Manual Corrections Log
 
 ## 1. Patent Category Corrections
-**Script:** `repair_patent_categories.py`
 **Correction:** `feasibility` → `appropriability`
 **Affected papers (N=9):**
 - 9DB7SN4W
@@ -15,7 +14,6 @@
 - HVQ27EUN
 
 ## 2. Vehicle Category Corrections
-**Script:** `repair_vehicle_categories.py`
 **Correction:** miscellaneous categories → `other`
 
 ### social_capital (N=9)
@@ -63,7 +61,6 @@
 - MRXPIWUB
 
 ## 3. Duplicate Vehicle Tag Corrections
-**Script:** `repair_duplicate_vehicles.py`
 **Correction:** within-paper deduplication with
 effectiveness direction consolidation
 **Rule:** same direction → retain; conflicting
