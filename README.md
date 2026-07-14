@@ -1,8 +1,8 @@
 # LLM-Assisted Systematic Literature Review Pipeline
 
 This repository contains the extraction pipeline developed for the bachelor thesis
-*"Signaling Technological Capabilities to Investors: A Systematic Review of Signal Vehicles,
-Effectiveness, and Context-Dependence in Entrepreneurial Finance."*
+*"Signaling Technological Capabilities in Entrepreneurial Finance: An LLM-Assisted Systematic Review"* 
+by Valentin Gies.
 
 ## Overview
 
