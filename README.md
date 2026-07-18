@@ -24,14 +24,14 @@ stage folders.
 │   └── zotero_resolve_unsure.py         # Script to apply inclusion/exclusion criteria
 ├── Stage 2: Relevance Screening (Full Text)/
 │   ├── prompts/                         # Screening criteria
-│   └── zotero_resolve_unsure.py         # Script for resolving uncertain screening results
+│   └── zotero_resolve_unsure.py         # Script for resolving uncertain screening results at full-text level
 ├── Stage 3: Full Text Extraction/
 │   ├── criteria/                        # Extraction criteria and prompt templates
 │   └── pipeline.py                      # Main extraction pipeline
 ├── Normalization Script & Logs/
 │   ├── normalize_llm.py                 # Two-stage normalization script
 │   ├── normalization_log.md             # Complete mapping log of all normalization decisions
-│   └── manual_correction_log.md         # Log of manual corrections and repair scripts
+│   └── manual_correction_log.md         # Log of manual corrections traceable to their Zotero key
 ├── Output CSVs/
 │   ├── extractions_raw.csv              # Raw LLM extraction output
 │   └── extractions_v3_normalized.csv    # Final normalized dataset (127 papers, 16 dimensions)
