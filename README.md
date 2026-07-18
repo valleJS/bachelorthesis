@@ -54,7 +54,7 @@ complementarity effects, and contextual variables. The pipeline queries Zotero
 to identify unprocessed papers and tags each completed extraction with its
 criteria version, enabling incremental corpus updates without reprocessing.
 
-**Normalization** maps the raw extracted values into canonical forms through
+**Normalization** maps the extracted values of the controlled-vocabulary fields into canonical forms through
 a two-stage process: LLM-suggested canonical mappings followed by researcher
 approval. All mappings and manual corrections are documented in the
 normalization logs.
